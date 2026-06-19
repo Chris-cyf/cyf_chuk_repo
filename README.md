@@ -1,5 +1,5 @@
-# CYF_repo
-# CY_repo featuring Web Development Concepts, Project
+# cyf_chuk_repo
+# cyf_chuk_repo featuring Web Development Concepts, Project
 
 This project demonstrates the fundamental concepts of web page development, covering the core building blocks of HTML web page structure e.g `<DOCTYPE html>`, `<html>`, `<head>`, and `<body>` and CSS structuring and styling. The project serves as a practical implementation of structuring and styling web content.
 
