@@ -35,7 +35,7 @@ Here are the main files that make up this repository:
 ## Live Demo
 You can view the live site deployed via GitHub Pages here:
 
-`## Live Demo
+## Live Demo
 
 You can view the live site deployed via GitHub Pages here:
 
